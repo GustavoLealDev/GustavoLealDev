@@ -12,3 +12,11 @@
   <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+##
+
+<div>
+ <a href="http://beacons.ai/GustavoLealDev">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoLealDev&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLealDev&layout=compact&langs_count=16&theme=kacho_ga"/>
+</div>
