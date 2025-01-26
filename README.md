@@ -1,4 +1,4 @@
- Olá!! Sou Gustavo Leal, Sou um Estudante/Desenvolvedor com crescente interesse em C#. Comecei minha jornada em desenvolvimento em PHP e estou aprendendo e aplicando conceitos de programação e desenvolvimento de software, contribuindo para a criação de soluções eficientes e inovadoras. Busco um ambiente para  aprimorar minhas habilidades em .NET, C#, Entity Framework e bancos de dados. 
+Olá!! Me chamo Gustavo Leal, sou Estudante/Desenvolvedor com crescente interesse em C#. Comecei minha jornada em desenvolvimento em PHP e estou aprendendo e aplicando conceitos de programação e desenvolvimento de software, contribuindo para a criação de soluções eficientes e inovadoras. Busco um ambiente para  aprimorar minhas habilidades em .NET, C#, Entity Framework e bancos de dados. 
 ##
 
 - ⌨️ Técnico em TI focado em virar desenvolvedor!!
