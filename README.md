@@ -7,6 +7,8 @@ Hi! I’m Gustavo Leal, Student/Developer with a growing interest in C#. I start
 - ⌨️ Técnico em TI focado em virar desenvolvedor!!
 - ✏️ Cursando Analise e Desenvolvimento de Sistemas e Aprendendo C#, .NET
 
+
+
 ## 💻 Linguagens e Tecnologias:
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
