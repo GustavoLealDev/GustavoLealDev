@@ -22,6 +22,5 @@ I'm Student/Developer with a growing interest in C#. I started my development jo
 
 <div>
  <a href="http://beacons.ai/GustavoLealDev">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoLealDev&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLealDev&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
