@@ -1,11 +1,9 @@
 ### Olá! Eu sou Gustavo Leal
 ##
-Sou estudante/Desenvolvedor com crescente interesse em C#. Comecei minha jornada no desenvolvimento com PHP e desde então, tenho aprendido e aplicado conceitos de programação e desenvolvimento de software para criar soluções eficientes e inovadoras. Atualmente, estou buscando oportunidades para crescer e aprimorar minhas habilidades em .NET, C#, Entity Framework e bancos de dados. Estou animado para contribuir com projetos significativos enquanto continuo aprendendo e me desenvolvendo como profissional!
 
-I'm Student/Developer with a growing interest in C#. I started my development journey with PHP, and since then, I’ve been learning and applying programming and software development concepts to create efficient and innovative solutions. Right now, I’m looking for opportunities to grow and improve my skills in .NET, C#, Entity Framework, and databases. I’m excited to contribute to meaningful projects while continuing to learn and develop as a professional!
-
-- ⌨️ Técnico em TI focado em virar desenvolvedor!!
 - ✏️ Cursando Analise e Desenvolvimento de Sistemas
+- ⏳ Futuro desenvolvedor
+- 🎯 Atualmente me aprofundando em Azure
 
 
 
