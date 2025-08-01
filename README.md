@@ -3,7 +3,7 @@
 
 - ✏️ Cursando Analise e Desenvolvimento de Sistemas
 - ⏳ Futuro desenvolvedor
-- 🎯 Atualmente me aprofundando em Azure
+- 🎯My focus is to solve problems and build useful and responsive
 
 
 
