@@ -1,9 +1,9 @@
 ### Olá! Eu sou Gustavo Leal
 ##
 
-- ✏️ Cursando Analise e Desenvolvimento de Sistemas
-- ⏳ Futuro desenvolvedor
-- 🎯Foco em resolver problemas e construir aplicativos úteis e responsivos
+- 🧑‍🎓 Cursando Analise e Desenvolvimento de Sistemas
+- 💻Back-end Developer | Estudando Front-end com JavaScript
+- 🎯Foco em resolver problemas, construir aplicativos úteis e responsivos e evoluir como desenvolvedor full stack
 
 
 
