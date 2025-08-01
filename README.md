@@ -3,7 +3,7 @@
 
 - ✏️ Cursando Analise e Desenvolvimento de Sistemas
 - ⏳ Futuro desenvolvedor
-- 🎯My focus is to solve problems and build useful and responsive
+- 🎯Foco em resolver problemas e construir aplicativos úteis e responsivos
 
 
 
