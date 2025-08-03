@@ -33,5 +33,5 @@
 
 <div>
  <a href="http://beacons.ai/GustavoLealDev">
-  <img align="center" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLealDev&layout=donut&show_icons=true&theme=chartreuse-dark&hide_progress=true)"/>
+  <img align="center" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLealDev&layout=compact&show_icons=true)"/>
 </div>
