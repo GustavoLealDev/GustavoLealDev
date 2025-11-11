@@ -2,7 +2,6 @@
 ##
 
 - 🧑‍🎓 Cursando Analise e Desenvolvimento de Sistemas
-- 💻Back-end Developer
 - 🎯Foco em resolver problemas e construir aplicativos úteis e responsivos.
 
 
