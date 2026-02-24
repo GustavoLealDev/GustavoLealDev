@@ -2,5 +2,5 @@
 ##
 
 - 🧑‍🎓 Cursando Analise e Desenvolvimento de Sistemas
-- 🎯Foco em resolver problemas e construir aplicativos úteis e responsivos.
+- 🎯Foco em resolver problemas.
 
